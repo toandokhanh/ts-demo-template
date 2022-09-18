@@ -1,4 +1,20 @@
-console.log('hello');
+console.log('hello world');
+// function sum(a: number, b: number) {
+//   return a + b;
+// }
+// console.log(sum(10, 5));
+
+type Preson = {
+  age: number;
+  handsome: boolean;
+};
+
+const toanvippro: Preson = {
+  age: 20,
+  handsome: true,
+};
+console.log(toanvippro.handsome);
+
 // // optional chaining
 // // implement interface
 // import { send } from './mailer';
