@@ -1,9 +1,10 @@
 console.log('hello world');
-// function sum(a: number, b: number) {
-//   return a + b;
-// }
-// console.log(sum(10, 5));
+function tong(a: number, b: number) {
+  return a + b;
+}
+console.log(sum(10, 5));
 
+//type trong TS
 type Preson = {
   age: number;
   handsome: boolean;
@@ -15,10 +16,9 @@ const toanvippro: Preson = {
 };
 console.log(toanvippro.handsome);
 
-// // optional chaining
-// // implement interface
+// optional chaining
 // import { send } from './mailer';
-
+// implement interface
 // interface Pet {
 //   name: string;
 // }

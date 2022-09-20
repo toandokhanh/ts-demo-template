@@ -1,4 +1,4 @@
-# coderx
+# Tự học TypeScript
 
 ## install ts-node-dev => npm i ts-node-dev --save-dev
 
