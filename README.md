@@ -1,4 +1,4 @@
-# Tự học TypeScript
+# Tự học TypeScript 2022
 
 ## install ts-node-dev => npm i ts-node-dev --save-dev
 
